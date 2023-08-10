@@ -1,0 +1,87 @@
+ .u-section-1 {
+  background-image: url("https://assets.nicepagecdn.com/724b36bf/5578441/images/v2_7.png");
+}
+
+.u-section-1 .u-group-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  width: auto;
+  font-size: 1.875rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: auto;
+  font-size: 1.875rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  width: auto;
+  font-size: 1.875rem;
+  margin: 90px auto 0;
+}
+
+.u-section-1 .u-text-4 {
+  width: auto;
+  font-size: 1.875rem;
+  margin: 77px auto 0;
+}
+
+.u-section-1 .u-text-5 {
+  width: auto;
+  font-size: 1.875rem;
+  margin: 84px auto 0;
+}
+
+.u-section-1 .u-text-6 {
+  width: auto;
+  font-size: 3.75rem;
+  margin: 99px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 335px;
+  height: 745px;
+  margin: -59px auto 0;
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+    min-height: 1065px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 363px;
+    min-height: 797px;
+    margin: 127px auto 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 80px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 90px;
+  }
+
+  .u-section-1 .u-text-6 {
+    font-size: 2.5rem;
+    margin-top: -881px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 148px;
+    height: 162px;
+    object-position: 15.97% 50%;
+    margin-top: 817px;
+    margin-right: calc(((100% - 340px) / 2) + 77px);
+  }
+}
